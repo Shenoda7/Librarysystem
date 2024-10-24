@@ -42,16 +42,16 @@ The system sorts books by ID or name and allows users to borrow or return books,
 
 ### Menu
 
-#Add a book
-#Search books by prefix
-#Print who borrowed a book by name
-#Print library by ID
-#Print library by name
-#Add a user
-#User borrows a book
-#User returns a book
-#Print users
-#Exit
+- Add a book
+- Search books by prefix
+- Print who borrowed a book by name
+- Print library by ID
+- Print library by name
+- Add a user
+- User borrows a book
+- User returns a book
+- Print users
+- Exit
 
 
 ### Sample Operations
